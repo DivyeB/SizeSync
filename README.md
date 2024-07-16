@@ -1,9 +1,6 @@
 # SizeSync: A Size Storage System
 
-SizeSync is a web application designed to securely store and manage customer size data. It provides an intuitive interface for entering and retrieving size measurements, making it ideal for tailoring and clothing businesses.
-
-# Note:
-Vercel deployment is currently taken down due to some bugs, although it works perfectly locally, hence, we can use git clone until vercel deployment is back up.
+SizeSync is a web application designed to securely store and manage customer-size data. It provides an intuitive interface for entering and retrieving size measurements, making it ideal for tailoring and clothing businesses.
 
 ## Features
 
