@@ -12,6 +12,6 @@ SizeSync is a web application designed to securely store and manage customer-siz
 
 - **Node.js**: Server-side JavaScript runtime.
 - **Express**: Web framework for Node.js.
-- **MongoDB**: NoSQL database for secure data storage.
+- **MongoDB**: NoSQL database for data storage.
 - **Bootstrap**: CSS framework for responsive design.
 - **HTML/CSS/JavaScript**: Front-end technologies for building the user interface.
